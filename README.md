@@ -1,2 +1,2 @@
-# COMP_S456F_FYP
+# COMP_S456F_FYP_Placental Maturity Grading via Enhanced YOLOv11m
 COMP_S425F_FYP_Source_Code
